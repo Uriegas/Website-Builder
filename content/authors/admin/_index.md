@@ -32,7 +32,7 @@ education:
     year: 2023
   - course: B.Sc. Information Technology
     institution: Victoria's Polytechnic University
-    year: 2009
+    year: 2022
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2008
