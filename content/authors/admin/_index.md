@@ -20,9 +20,9 @@ bio: My research interests include compilers, artificial intelligence and financ
 
 # Interests to show in About widget
 interests:
+- Finance, Banking \& Fintech
 - Artificial Intelligence
-- Compilers
-- Finance \& Banking
+- Compilers \& Parsers
 
 # Education to show in About widget
 education:
@@ -72,9 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-Student with training in technology and economics, with experience in teamwork and project development; I personally feel a commitment to human development and service to others.
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Student with training in technology and economics, experience in project development and teamwork; passionate about human development and banking.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
- -->
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

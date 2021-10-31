@@ -25,25 +25,44 @@ experience:
   - title: Research Assistant
     company: Cambridge University
     company_url: 'https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/'
-    company_logo: org-gc
+    company_logo: 'cambridge'
     location: Cambridge, UK
     date_start: '2021-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Research in Fintech ecosystem, adding entities to the fintech atlas.
+    # |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
         
   - title: Research Assistant
     company: CINVESTAV
     company_url: 'https://www.tamps.cinvestav.mx/'
-    company_logo: org-x
+    company_logo: 'cinvestav'
     location: Victoria, Mexico
     date_start: '2021-05-01'
     date_end: '2021-09-30'
     description: Surveyed machine learning techniques to optimize resource allocation in 5G wireless networks.
+
+  - title: Started economics bachelor
+    company: UNAM
+    company_url: 'http://www.economia.unam.mx/'
+    company_logo: 'unam'
+    location: Mexico City, Mexico
+    date_start: '2019-09-02'
+    date_end: 
+    # description: Surveyed machine learning techniques to optimize resource allocation in 5G wireless networks.
+
+  - title: Started information technologies bachelor
+    company: UPV
+    company_url: 'http://www.upvictoria.edu.mx/'
+    company_logo: 'upv'
+    location: Victoria, Mexico
+    date_start: '2019-08-05'
+    date_end: 
+    # description: .
 
 design:
   columns: '2'

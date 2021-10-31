@@ -17,13 +17,15 @@ content:
   autolink: true
   
   # Email form provider
+  # email_form: 2
   form:
-    provider: netlify
+    provider: formspree
+    # https://formspree.io/f/xgerjooq
     formspree:
-      id:
+      id: xgerjooq
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'

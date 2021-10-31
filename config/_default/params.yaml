@@ -25,35 +25,35 @@ phone: (+52) 834 352 8863
 address:
   street: Av. de las Tecnologias
   city: Cd. Victora
-  region: Tam
+  region: Tamaulipas
   postcode: '87130'
   country: Mexico
   country_code: MX
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Tecnotam until you reach the end of the park.
+# coordinates:
+  # latitude: '37.4275'
+  # longitude: '-122.1697'
+directions: Tecnotam park go straight until you find the university.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday-Friday 7:00 to 14:00'
+  # - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/uriegas_eduardo'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
